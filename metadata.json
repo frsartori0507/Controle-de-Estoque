@@ -1,0 +1,7 @@
+{
+  "name": "Controle de Estoque",
+  "description": "Controle de estoque _Gilson",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
